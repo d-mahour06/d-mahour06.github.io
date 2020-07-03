@@ -37,7 +37,7 @@
     /* set both the bottom margin and top margin to 2.5rem here */
    }
 
-  h2 span{
+   span{
     border: 4px dashed #075AAB;
     padding: 10px;
   }
