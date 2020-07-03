@@ -30,6 +30,8 @@
    }
 
   h2 {
+    border: 4px dashed #075AAB;
+    padding: 10px;
     color: #075AAB;
     /* set the text color of to #075AAB here */
     margin-bottom: 2.5rem;
